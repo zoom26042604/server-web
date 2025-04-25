@@ -1,0 +1,11 @@
+# Ignorer les fichiers temporaires
+*.tmp
+*.log
+
+# Ignorer les certificats SSL et clés privées
+
+# Ignorer les fichiers de build
+
+# Ignorer les fichiers d'environnement
+.env
+*.env
